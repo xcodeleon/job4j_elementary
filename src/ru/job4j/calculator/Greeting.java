@@ -21,7 +21,6 @@ public class Greeting {
         int year = 2021;
         idea = str + year;
         System.out.println(idea);
-
     }
 
 }
