@@ -12,8 +12,6 @@ package ru.job4j.converter;
 
 2. Доработайте метод main. Добавьте в него примеры выводов всех видов конвертаций.
  */
-
-
 public class Converter {
     public static float rubleToEuro(float value) {
         float rsl = value / 70;
